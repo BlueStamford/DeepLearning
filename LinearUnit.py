@@ -1,6 +1,6 @@
 # --coding:utf-8 --
 
-from example1 import Perceptron
+from perceptron import Perceptron
 
 # 定义激活函数f
 f = lambda x: x
