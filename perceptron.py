@@ -1,4 +1,4 @@
-# --coding:utf-8 --
+# -*- coding:utf-8 -*-
 class Perceptron(object):
 	def __init__(self, input_num, activator):
 		"""
